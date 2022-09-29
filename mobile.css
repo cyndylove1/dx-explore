@@ -14,10 +14,10 @@
     }
     
     .header-text{
-        width: 50%;
+        width: 80%;
         text-align:left;
         float: left;
-        margin-left: 100px;
+        margin-left:0 auto;
         
     }
 
