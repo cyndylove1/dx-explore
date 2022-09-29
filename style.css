@@ -48,7 +48,7 @@ body{
     width: 25%;
     height:100px;
     float: right;
-    margin:80px 50px;
+    margin:70px 50px;
     
 }
 .header-text h4{
@@ -72,7 +72,7 @@ body{
     background: tomato;
     color: var(--white-color);
     border-radius: 20px;
-    margin: 5px 16px;
+    margin: 0 16px;
     border:none;
 }
 
