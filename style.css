@@ -93,6 +93,7 @@ body{
     padding: 30px 20px;
     background: tomato;
     color:var(--white-color);
+
 }
 .explore-container{
     /* border: 3px solid aqua; */
@@ -112,14 +113,15 @@ body{
     position:fixed;
     /* left:0; */
     right: 0;
-    top: 80px;
+    margin-top:80px;
+    top: 0;
     z-index:3;
 }
 
 
 
 .showmobilelinks{
-    display:block;
+    /* display:block; */
     transform: translateX(0);
 }
 .mobilelinks-content ul{
@@ -133,8 +135,9 @@ body{
 
 }
 .mobilelinks-content .active-link{
-    background:tomato;
-    color:var(--white-color);
+    background:var(--white-color);
+    color:tomato;
+
 
 }
 .mobilelinks-content a:hover{
